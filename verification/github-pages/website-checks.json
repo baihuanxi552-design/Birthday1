@@ -1,0 +1,14 @@
+{
+  "url": "https://baihuanxi552-design.github.io/Birthday1/",
+  "checks": [
+    "74-second label; 19 photos; silent entry; film master 74.00s muted on entry",
+    "Sound toggle; film plays and unmutes; modal pauses film/background; original video defaults muted",
+    "Gallery next photo and Escape close",
+    "Birthday ending exact text",
+    "390px mobile layout without horizontal overflow",
+    "Film advances in the site player (frames change during playback)",
+    "Footer \"再公开一次\" pauses and seeks the film back to 0"
+  ],
+  "errors": [],
+  "status": "passed"
+}

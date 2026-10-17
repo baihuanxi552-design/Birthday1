@@ -7,6 +7,13 @@
 - 站点：https://baihuanxi552-design.github.io/Birthday1/
 - 仓库：https://github.com/baihuanxi552-design/Birthday1
 - 部署方式：推到 `main` 后由 `.github/workflows/deploy.yml` 自动构建并发布；项目页在子路径下，构建时用 `SITE_BASE=/Birthday1/` 生成资源路径。
+- 本地默认构建（`npm run build`，base `/`）供本机预览；按线上路径复验：
+
+  ```bash
+  SITE_BASE=/Birthday1/ npx vite build --base=/Birthday1/ --outDir dist-pages
+  npx vite preview --outDir dist-pages --base=/Birthday1/ --port 4180
+  # 打开 http://127.0.0.1:4180/Birthday1/
+  ```
 
 ## 启动
 
