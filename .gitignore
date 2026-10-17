@@ -1,0 +1,22 @@
+node_modules/
+dist/
+dist-pages/
+.remotion/
+
+# 成片与渲染缓存（体积大，可按 README 重新生成）
+outputs/
+verification/motion-bundle/
+hyperframes-film/renders/
+hyperframes-film/.hyperframes/
+lint.json
+
+# HyperFrames 工程复用 public/assets 里的媒体，避免重复入库
+hyperframes-film/assets/
+
+# Claude Motion 原始素材：只保留可编辑源码与报告，视频/图/音不入库
+motion-v2/*.mp4
+motion-v2/*.wav
+motion-v2/*.png
+
+.DS_Store
+Thumbs.db

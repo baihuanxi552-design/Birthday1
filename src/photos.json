@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/01.webp",
+    "thumb": "/assets/01-thumb.webp",
+    "original": "/originals/01.png",
+    "width": 1155,
+    "height": 1406,
+    "group": "表情失控",
+    "caption": "回应如下：哈哈哈哈"
+  },
+  {
+    "id": 2,
+    "src": "/assets/02.webp",
+    "thumb": "/assets/02-thumb.webp",
+    "original": "/originals/02.jpg",
+    "width": 600,
+    "height": 800,
+    "group": "表情失控",
+    "caption": "表情管理：不在服务区"
+  },
+  {
+    "id": 3,
+    "src": "/assets/03.webp",
+    "thumb": "/assets/03-thumb.webp",
+    "original": "/originals/03.jpg",
+    "width": 600,
+    "height": 800,
+    "group": "生活现场",
+    "caption": "学习时：谢绝打扰"
+  },
+  {
+    "id": 4,
+    "src": "/assets/04.webp",
+    "thumb": "/assets/04-thumb.webp",
+    "original": "/originals/04.jpg",
+    "width": 600,
+    "height": 800,
+    "group": "生活现场",
+    "caption": "同一个人"
+  },
+  {
+    "id": 5,
+    "src": "/assets/05.webp",
+    "thumb": "/assets/05-thumb.webp",
+    "original": "/originals/05.jpg",
+    "width": 600,
+    "height": 800,
+    "group": "生活现场",
+    "caption": "三张照片"
+  },
+  {
+    "id": 6,
+    "src": "/assets/06.webp",
+    "thumb": "/assets/06-thumb.webp",
+    "original": "/originals/06.jpg",
+    "width": 1279,
+    "height": 1706,
+    "group": "生活现场",
+    "caption": "没有一张在管理表情"
+  },
+  {
+    "id": 7,
+    "src": "/assets/07.webp",
+    "thumb": "/assets/07-thumb.webp",
+    "original": "/originals/07.jpg",
+    "width": 2812,
+    "height": 1280,
+    "group": "正经出场",
+    "caption": "下面请当事人发言"
+  },
+  {
+    "id": 8,
+    "src": "/assets/08.webp",
+    "thumb": "/assets/08-thumb.webp",
+    "original": "/originals/08.jpg",
+    "width": 1024,
+    "height": 2252,
+    "group": "正经出场",
+    "caption": "关于这些照片，本人回应"
+  },
+  {
+    "id": 9,
+    "src": "/assets/09.webp",
+    "thumb": "/assets/09-thumb.webp",
+    "original": "/originals/09.jpg",
+    "width": 2812,
+    "height": 1280,
+    "group": "正经出场",
+    "caption": "发布会后台：憋住"
+  },
+  {
+    "id": 10,
+    "src": "/assets/10.webp",
+    "thumb": "/assets/10-thumb.webp",
+    "original": "/originals/10.jpg",
+    "width": 1279,
+    "height": 1706,
+    "group": "正经出场",
+    "caption": "正经出场，仅供参考"
+  },
+  {
+    "id": 11,
+    "src": "/assets/11.webp",
+    "thumb": "/assets/11-thumb.webp",
+    "original": "/originals/11.jpg",
+    "width": 3840,
+    "height": 2160,
+    "group": "表情失控",
+    "caption": "回应结束，开始笑场"
+  },
+  {
+    "id": 12,
+    "src": "/assets/12.webp",
+    "thumb": "/assets/12-thumb.webp",
+    "original": "/originals/12.jpg",
+    "width": 3280,
+    "height": 2464,
+    "group": "生活现场",
+    "caption": "开饭时：本人到场"
+  },
+  {
+    "id": 13,
+    "src": "/assets/13.webp",
+    "thumb": "/assets/13-thumb.webp",
+    "original": "/originals/13.jpg",
+    "width": 4096,
+    "height": 3072,
+    "group": "正经出场",
+    "caption": "帅照体验卡，限时两秒"
+  },
+  {
+    "id": 14,
+    "src": "/assets/14.webp",
+    "thumb": "/assets/14-thumb.webp",
+    "original": "/originals/14.jpg",
+    "width": 1120,
+    "height": 1494,
+    "group": "正经出场",
+    "caption": "镜头来了，坐稳"
+  },
+  {
+    "id": 15,
+    "src": "/assets/15.webp",
+    "thumb": "/assets/15-thumb.webp",
+    "original": "/originals/15.jpg",
+    "width": 1244,
+    "height": 2160,
+    "group": "表情失控",
+    "caption": "帅照体验时间已结束"
+  },
+  {
+    "id": 16,
+    "src": "/assets/16.webp",
+    "thumb": "/assets/16-thumb.webp",
+    "original": "/originals/16.jpg",
+    "width": 213,
+    "height": 540,
+    "group": "表情失控",
+    "caption": "我刚才是不是被拍了"
+  },
+  {
+    "id": 17,
+    "src": "/assets/17.webp",
+    "thumb": "/assets/17-thumb.webp",
+    "original": "/originals/17.jpg",
+    "width": 1279,
+    "height": 1706,
+    "group": "表情失控",
+    "caption": "本人正在尝试退出网站"
+  },
+  {
+    "id": 18,
+    "src": "/assets/18.webp",
+    "thumb": "/assets/18-thumb.webp",
+    "original": "/originals/18.jpg",
+    "width": 4436,
+    "height": 4134,
+    "group": "生活现场",
+    "caption": "实体库存，同步公开"
+  },
+  {
+    "id": 19,
+    "src": "/assets/19.webp",
+    "thumb": "/assets/19-thumb.webp",
+    "original": "/originals/19.jpg",
+    "width": 3072,
+    "height": 4550,
+    "group": "生活现场",
+    "caption": "复读篇：探望顺便补货"
+  }
+]

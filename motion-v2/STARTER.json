@@ -1,0 +1,47 @@
+{
+  "engine": "papercut",
+  "example": "borrowed-umbrella",
+  "files": [
+    {
+      "path": "ADAPTATION.md",
+      "sha256": "2e8e6b2573efd64dc2cc9740d909aa1274c2baef084b85935e5dcbc9deaf3e1b"
+    },
+    {
+      "path": "art.js",
+      "sha256": "bf8970d719405a115074a7c743ba881af03808d533a0c710602214e5e5e431c2"
+    },
+    {
+      "path": "engine\\upstream\\motifs.js",
+      "sha256": "5da5a086d562ea5344caf2a893a97ae6d3e584efbe7be69da88a122c0b5f99b6"
+    },
+    {
+      "path": "engine\\upstream\\paper.js",
+      "sha256": "ef897323cf3043c96091c1d4b8d83d59be772ac99afb5d3c3973af66827fe837"
+    },
+    {
+      "path": "engine\\upstream\\rig.js",
+      "sha256": "da6901a0e4efb008b561b07de6556dd405c78b676a65edbd8c630c6170d6948b"
+    },
+    {
+      "path": "ENGINE-INPUT.json",
+      "sha256": "060b41c904bd51fd14c5b846b31b119da4b5f4915f593d452d45d0caa367be09"
+    },
+    {
+      "path": "index.html",
+      "sha256": "7f724541f5c7eb11216a15554fafeced88492970106ec337e1403a687a10260f"
+    },
+    {
+      "path": "licenses\\lemo-opuscar-MIT.txt",
+      "sha256": "f6d14d5ea5f60387eff5e7916f490e9d743986be48138d9ce187d69cbe536756"
+    },
+    {
+      "path": "scene.js",
+      "sha256": "68d56cf74ff8e0a898369968138831fd7d82bb12318d37f1f1c9a8a768c64eb6"
+    },
+    {
+      "path": "score-base.js",
+      "sha256": "8f861370da4db0eb801417f4287f51e2aed7ba1969c317a75d3b3b8fe7a31fe1"
+    }
+  ],
+  "note": "Editable example, not an automatically generated new story. Write the new subject, actions and shots; re-render and verify. No prior film approval is inherited."
+}
